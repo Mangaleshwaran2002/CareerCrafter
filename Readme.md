@@ -49,6 +49,8 @@ The Mock Interview System uses two AI agents: an HR Interviewer and a Candidate.
 
 ![CareerCrafter-s2](https://raw.githubusercontent.com/Mangaleshwaran2002/CareerCrafter/refs/heads/master/Screenshots/mock_interview_simulator_screenshot_2.png)
 
+![CareerCrafter-gif](https://raw.githubusercontent.com/Mangaleshwaran2002/CareerCrafter/refs/heads/master/Screenshots/mock_interview_simulator.gif)
+
 ## Usage
 
 1. Provide the path to a PDF resume when prompted.
